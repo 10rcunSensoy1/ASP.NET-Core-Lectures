@@ -1,0 +1,14 @@
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\bin\Debug\net8.0\ODEV3.exe
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\bin\Debug\net8.0\ODEV3.deps.json
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\bin\Debug\net8.0\ODEV3.runtimeconfig.json
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\bin\Debug\net8.0\ODEV3.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\bin\Debug\net8.0\ODEV3.pdb
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\obj\Debug\net8.0\ODEV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\obj\Debug\net8.0\ODEV3.AssemblyInfoInputs.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\obj\Debug\net8.0\ODEV3.AssemblyInfo.cs
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\obj\Debug\net8.0\ODEV3.csproj.CoreCompileInputs.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\obj\Debug\net8.0\ODEV3.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\obj\Debug\net8.0\refint\ODEV3.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\obj\Debug\net8.0\ODEV3.pdb
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\obj\Debug\net8.0\ODEV3.genruntimeconfig.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ODEV3\ODEV3\obj\Debug\net8.0\ref\ODEV3.dll
