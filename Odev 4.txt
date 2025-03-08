@@ -1,0 +1,15 @@
+
+
+Array nedir?
+
+C# dilinde diziler, aynı veri türündeki birden çok öğeyi tek bir yapı altında tutmak için kullanılan bir koleksiyon türüdür. Diziler sabit bir boyuta sahip olup, elemanlarına belirli bir sıra ile erişilir.
+
+Dizilerin Ana Özellikleri:
+
+*(Sabit Boyut): Diziler, tanımlandıkları anda belirli bir boyuta sahiptir ve bu boyut çalışma süresi boyunca değiştirilemez.
+
+*(Homojenlik): Diziler, yalnızca aynı türdeki verileri saklar. Örneğin, bir int dizisinde yalnızca tamsayılar bulunur.
+
+*(Sıralı Depolama): Dizideki öğeler, bellekte ardışık bir şekilde saklanır ve her bir elemana sırasıyla ulaşılır.
+
+*(0 Tabanlı İndeksleme): C# dizileri sıfırdan başlayan indekslemeye sahiptir; yani, ilk öğe indeks 0, ikinci öğe indeks 1 olarak kabul edilir.
