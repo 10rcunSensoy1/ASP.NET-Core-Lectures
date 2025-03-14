@@ -1,0 +1,14 @@
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\bin\Debug\net8.0\ODEV5.exe
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\bin\Debug\net8.0\ODEV5.deps.json
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\bin\Debug\net8.0\ODEV5.runtimeconfig.json
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\bin\Debug\net8.0\ODEV5.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\bin\Debug\net8.0\ODEV5.pdb
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\obj\Debug\net8.0\ODEV5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\obj\Debug\net8.0\ODEV5.AssemblyInfoInputs.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\obj\Debug\net8.0\ODEV5.AssemblyInfo.cs
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\obj\Debug\net8.0\ODEV5.csproj.CoreCompileInputs.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\obj\Debug\net8.0\ODEV5.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\obj\Debug\net8.0\refint\ODEV5.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\obj\Debug\net8.0\ODEV5.pdb
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\obj\Debug\net8.0\ODEV5.genruntimeconfig.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Loop-Condition-Assignment\ODEV5\ODEV5\obj\Debug\net8.0\ref\ODEV5.dll

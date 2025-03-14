@@ -1,0 +1,36 @@
+********************************************************************************************
+WHILE DONGUSU 
+
+int distance = 0;
+
+while (distance < 100)
+{
+    Console.WriteLine("Araba " + distance + " metrede.");
+    distance += 10; // Araba her döngüde 10 metre ilerliyor
+}
+
+Console.WriteLine("Araba 100 metreye ulaştı ve durdu.");
+
+While döngüsü, koşul doğru olduğu sürece tekrar eden işlemler için kullanılır. Eğer koşul başlangıçta yanlışsa, döngü hiç çalışmaz.
+
+********************************************************************************************
+
+DO-WHILE DONGUSU 
+
+int distance = 0;
+
+do
+{
+    Console.WriteLine("Araba " + distance + " metrede.");
+    distance += 10; // Araba her döngüde 10 metre ilerliyor
+} while (distance < 100);
+
+Console.WriteLine("Araba 100 metreye ulaştı ve durdu.");
+
+**Do-while döngüsü, en az bir kere çalışmayı garantiler. Yani, koşul başlangıçta yanlış bile olsa döngü içeriği en az bir kez çalışır. Daha sonra koşul kontrol edilerek döngü devam edip etmeyeceğine karar verilir.**
+
+
+
+
+
+
