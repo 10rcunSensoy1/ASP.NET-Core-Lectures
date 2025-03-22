@@ -1,0 +1,23 @@
+1.C# Namespace Nedir?
+
+Namespace, C# dilinde birden fazla sınıfın düzenli bir şekilde gruplandırılması için kullanılan bir yapıdır. Proje içindeki kodların daha düzenli ve kolay yönetilebilir olmasını sağlar. Bir namespace, aynı isimde sınıfların çakışmasını engeller ve projedeki sınıfları ayrıştırarak okunabilirliği artırır.
+
+Farklı Namespace Kullanmanın Avantajları:
+
+*Düzen ve Yönetilebilirlik: Projeyi modüler hale getirir ve karmaşayı azaltır.
+*Çakışmayı Önleme: Aynı isimde sınıfların farklı namespace’lerde kullanılabilmesini sağlar.
+*Kolay Bakım: Hangi sınıfın neye ait olduğunu hızlıca anlamayı kolaylaştırır.
+*Kod Yeniden Kullanımı: Bir namespace'i diğer projelerde kolayca içe aktarabilirsiniz.
+
+
+2.Genişletilebilirlik (Extensibility) Nedir?
+
+Genişletilebilirlik, bir yazılımın, gelecekteki ihtiyaçlar doğrultusunda değiştirilmeden veya minimum değişiklikle geliştirilip genişletilebilme özelliğidir.
+
+
+Yazılımı Nasıl Genişletilebilir Yapabiliriz?
+
+*Modüler Tasarım: Kod, bağımsız ve küçük birimlere ayrılarak yapılmalıdır.
+*Arayüzler (Interfaces): Sınıflar arayüzler kullanılarak geliştirilmelidir.
+*Bağımsızlık: Sınıflar birbirlerine bağımlı olmamalıdır.
+*Kod Yorumlama: Anlaşılır ve iyi belgelenmiş kod yazılmalıdır.
