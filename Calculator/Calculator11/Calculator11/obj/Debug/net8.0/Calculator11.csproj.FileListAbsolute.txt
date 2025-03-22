@@ -1,0 +1,14 @@
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\bin\Debug\net8.0\Calculator11.exe
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\bin\Debug\net8.0\Calculator11.deps.json
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\bin\Debug\net8.0\Calculator11.runtimeconfig.json
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\bin\Debug\net8.0\Calculator11.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\bin\Debug\net8.0\Calculator11.pdb
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\obj\Debug\net8.0\Calculator11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\obj\Debug\net8.0\Calculator11.AssemblyInfoInputs.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\obj\Debug\net8.0\Calculator11.AssemblyInfo.cs
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\obj\Debug\net8.0\Calculator11.csproj.CoreCompileInputs.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\obj\Debug\net8.0\Calculator11.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\obj\Debug\net8.0\refint\Calculator11.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\obj\Debug\net8.0\Calculator11.pdb
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\obj\Debug\net8.0\Calculator11.genruntimeconfig.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Calculator\Calculator11\Calculator11\obj\Debug\net8.0\ref\Calculator11.dll
