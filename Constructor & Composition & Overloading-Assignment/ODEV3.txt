@@ -1,0 +1,23 @@
+1. Garbage Collector (GC) nedir?
+
+**(Answer)**
+Garbage Collector (GC), .NET Framework ve .NET Core gibi platformlarda kullanılan bir bellek yönetim mekanizmasıdır. Otomatik bellek yönetimi sağlar ve kullanımdan düşen (artık erişilmeyen) nesneleri tespit ederek bellekten temizler. Bu sayede manuel olarak bellek boşaltmaya gerek kalmaz.
+
+2. Garbage Collector (GC) nasıl çalışır?
+**(Answer)**
+
+* Kullanılmayan Nesneleri Belirleme: GC, erişilmeyen nesneleri tespit etmek için "nesne grafiği" adı verilen bir yapı kullanır.
+
+* Belleği Temizleme: Kullanılmayan nesnelerin bellek alanını serbest bırakır.
+
+* Bölme Yönetimi: Bellek, nesneleri kısa ömürlü (Gen 0), orta ömürlü (Gen 1) ve uzun ömürlü (Gen 2) nesneler olarak ayırır. Bu süreç daha verimli bellek yönetimi sağlar.
+
+* Performans Optimizasyonu: Çöp toplama işlemi, sistem performansını fazla etkilememek için asenkron bir şekilde çalışır.
+
+3. Garbage Collector (GC) bellek yönetimindeki rolü nedir?
+
+* Bellek Sızıntılarını Önleme: Kullanılmayan nesneleri otomatik olarak temizler ve belleğin doğru kullanıldığından emin olur.
+
+* Manuel Müdahaleyi Azaltma: Geliştiricilerin bellek yönetimi ile uğraşmasına gerek bırakmaz.
+
+* Verimlilik ve Kararlılık: Bellek yönetimi işlerini optimize ederek uygulamaların daha verimli ve kararlı çalışmasını sağlar.

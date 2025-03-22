@@ -1,0 +1,31 @@
+1. Generic yapıların avantajları nelerdir?
+
+* Tip Güvenliği Sağlar: Generic yapılar sayesinde derleme zamanında hatalar tespit edilir, bu da daha güvenli kod yazılmasını sağlar.
+
+* Tekrar Kullanılabilirlik: Aynı kod farklı veri tipleri ile çalışabilir, böylece kodun tekrar kullanılabilirliği artar.
+
+* Performansı İyileştirir: Generic yapılar, tip dönüşümü gerektirmediği için (Boxing & Unboxing) performansı artırır.
+
+* Bakım Kolaylığı: Kod daha düzenli ve okunabilir olur, bu da bakım süreçlerini kolaylaştırır.
+
+2.Generic sınıf ve metotlarla esnek programlama nasıl yapılır?
+
+* Generic sınıflar ve metotlar, C#'ta farklı veri tipleriyle çalışmayı kolaylaştıran yapılardır. Bir generic sınıf veya metot, belirli bir veri tipiyle sınırlı kalmak yerine, farklı tiplerle çalışabilmek için tasarlanır. Bu, kodun daha esnek, yeniden kullanılabilir ve tip güvenli olmasını sağlar.
+
+* Örneğin, bir koleksiyon sınıfınız olduğunu düşünün. Bu koleksiyonun içine farklı tipte veriler (örneğin, int, string veya double) koymanız gerekebilir. Eğer generic yapılar kullanılırsa, aynı sınıf veya metot farklı veri tiplerinde kullanılabilir. Böylece, her bir veri tipi için ayrı sınıf yazmanıza gerek kalmaz.
+
+*Generic yapılar, özellikle koleksiyonlar (List<T>, Dictionary<TKey, TValue> gibi) ve algoritmalar için sıklıkla kullanılır. Farklı veri tiplerini destekleyerek kodunuzu esnek bir şekilde yapılandırmanıza olanak tanır.
+
+
+
+3. Boxing & Unboxing nedir ve performansa etkisi nedir?
+
+* Boxing: Değer tiplerinin (ör. int, double) referans tipine (object gibi) dönüştürülmesine Boxing denir.
+
+* Unboxing: Referans tiplerinin tekrar değer tipine dönüştürülmesine Unboxing denir.
+
+Performansa Etkisi:
+
+* Boxing ve Unboxing pahalı işlemlerdir: Her dönüşüm sırasında bellek üzerinde ek işlemler gerçekleştirilir, bu da uygulama performansını olumsuz etkileyebilir.
+
+* Generic Yapılar Performans Sağlar: Generic kullanımıyla Boxing ve Unboxing işlemleri engellenir, bu da daha hızlı ve verimli bir kod anlamına gelir.
