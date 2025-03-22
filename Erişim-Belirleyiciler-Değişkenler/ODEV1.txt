@@ -1,0 +1,25 @@
+Erişim Belirleyiciler:
+
+1.public (Genel):
+
+*Her yerden erişilebilir.
+*Örnek: Bir market kasasının her müşteri tarafından görülebilmesi.
+
+2.private (Özel):
+
+*Sadece tanımlandığı sınıf içinde kullanılabilir.
+*Örnek: Bir banka kasasının şifresi.
+
+3.protected (Korumalı):
+
+*Tanımlandığı sınıf veya ondan türeyen sınıflar tarafından erişilebilir.
+*Örnek: Bir araba motoru, sadece teknik uzmanlar müdahale edebilir.
+
+4.internal (Dahili):
+
+*Aynı proje/assembly içinde erişilebilir.
+*Örnek: Şirket içi belgelerin sadece çalışanlarca görüntülenebilmesi.
+
+OOP'de Rolleri:
+
+Erişim belirleyiciler, kapsülleme (encapsulation) ilkesini gerçekleştirir. Veriyi koruyarak gereksiz erişimi sınırlar ve güvenlik sağlar. Programların okunabilirliği artar ve hataları azaltır.
