@@ -1,0 +1,14 @@
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\bin\Debug\net8.0\ODEV1.exe
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\bin\Debug\net8.0\ODEV1.deps.json
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\bin\Debug\net8.0\ODEV1.runtimeconfig.json
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\bin\Debug\net8.0\ODEV1.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\bin\Debug\net8.0\ODEV1.pdb
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.AssemblyInfoInputs.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.AssemblyInfo.cs
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.csproj.CoreCompileInputs.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\obj\Debug\net8.0\refint\ODEV1.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.pdb
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\obj\Debug\net8.0\ODEV1.genruntimeconfig.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\Generic-List-ve-Nesne-Kullanımı-Assignment\ODEV1\ODEV1\obj\Debug\net8.0\ref\ODEV1.dll

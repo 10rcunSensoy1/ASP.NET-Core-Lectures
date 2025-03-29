@@ -1,0 +1,18 @@
+1)Görsel Programlama nedir?
+bir yazılımın işleyişini görsel öğeler, simgeler, grafikler ve diyagramlar kullanarak tanımlama yöntemidir. Bu programlama yönteminde, kod yazmaktan ziyade, kullanıcılar genellikle bloklar, akış şemaları veya grafiksel araçlar aracılığıyla bir programı tasarlayabilirler.
+
+
+2.Metin tabanlı programlamadan farkları nelerdir?
+
+Özellik                 | Metin Tabanlı Programlama                               | Görsel Programlama
+----------------------- | --------------------------------------------------------| -----------------------------------------------------
+Kodlama Biçimi          | Yazılı metin şeklinde, belirli bir programlama dilinde  | Bloklar, simgeler ve grafikler kullanılarak görselleştirilir.
+                          komutlar yazılarak uygulanır.                           
+Yazılım Araçları        | Visual Studio, Eclipse, IntelliJ IDEA gibi IDE'ler.     | Scratch, LabVIEW, Blockly gibi görsel araçlar.
+Öğrenme Eğrisi          | Daha karmaşık; yazım kurallarını öğrenmek ve uygulamak  | Daha kullanıcı dostu ve öğrenmesi kolaydır.
+                          daha fazla çaba ister.                                  
+Uygulama Alanları       | Büyük, karmaşık projeler ve uygulamalar için uygundur.  | Daha basit projeler, prototipler veya eğitim amacıyla kullanılır.
+Hata Ayıklama           | Kod tabanlı; hata mesajlarını anlamak ve çözmek         | Görseller üzerinden hatalar kolayca tespit edilir.
+                          daha zordur. 
+Kullanıcı Hedefi        | Profesyonel geliştiriciler ve ileri seviye kullanıcılar.| Çocuklar, eğitim amaçlı kullanıcılar veya teknik bilgisi sınırlı olan bireyler.
+Yazılım Esnekliği       | Karmaşık algoritmaları ve özelleştirmeleri destekler.   | Karmaşık yapıların geliştirilmesinde sınırlı kalabilir.
