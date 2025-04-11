@@ -1,0 +1,16 @@
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\bin\Debug\net8.0-windows\ArabaBilgiFormu.exe
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\bin\Debug\net8.0-windows\ArabaBilgiFormu.deps.json
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\bin\Debug\net8.0-windows\ArabaBilgiFormu.runtimeconfig.json
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\bin\Debug\net8.0-windows\ArabaBilgiFormu.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\bin\Debug\net8.0-windows\ArabaBilgiFormu.pdb
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.Form1.resources
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.csproj.GenerateResource.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.AssemblyInfoInputs.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.AssemblyInfo.cs
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.csproj.CoreCompileInputs.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\refint\ArabaBilgiFormu.dll
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.pdb
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.genruntimeconfig.cache
+C:\Users\orcun\Desktop\C#-ASP.Net-Core-Odevler\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ref\ArabaBilgiFormu.dll
