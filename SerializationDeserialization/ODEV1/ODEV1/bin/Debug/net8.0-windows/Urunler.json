@@ -1,0 +1,30 @@
+[
+  {
+    "UrunAdi": "Bilgisayar",
+    "Fiyat": 24500
+  },
+  {
+    "UrunAdi": "Klavye",
+    "Fiyat": 850
+  },
+  {
+    "UrunAdi": "Telefon",
+    "Fiyat": 14500
+  },
+  {
+    "UrunAdi": "Mouse",
+    "Fiyat": 950
+  },
+  {
+    "UrunAdi": "Calisma Masasi",
+    "Fiyat": 2500
+  },
+  {
+    "UrunAdi": "Gamepad",
+    "Fiyat": 1865
+  },
+  {
+    "UrunAdi": "Bilgisayar Sandalyesi",
+    "Fiyat": 6500
+  }
+]

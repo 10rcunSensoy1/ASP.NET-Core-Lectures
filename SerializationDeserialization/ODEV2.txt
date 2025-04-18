@@ -1,0 +1,30 @@
+Reflection Nedir?
+
+Reflection, bir programın çalışma zamanında (runtime) kendi yapısını incelemesini ve üzerinde işlem yapmasını sağlayan bir mekanizmadır. 
+Özellikle dinamik kod analizleri ve çalıştırma zamanı verilerine erişim için kullanılır.
+
+Örnek Kod:
+using System;
+using System.Reflection;
+
+public class Ogrenci
+{
+    public string Ad { get; set; }
+    public int Yas { get; set; }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Ogrenci ogr = new Ogrenci { Ad = "Ali", Yas = 21 };
+
+        Type tip = ogr.GetType();
+        PropertyInfo[] ozellikler = tip.GetProperties();
+
+        foreach (PropertyInfo ozellik in ozellikler)
+        {
+            Console.WriteLine($"{ozellik.Name}: {ozellik.GetValue(ogr)}");
+        }
+    }
+}
