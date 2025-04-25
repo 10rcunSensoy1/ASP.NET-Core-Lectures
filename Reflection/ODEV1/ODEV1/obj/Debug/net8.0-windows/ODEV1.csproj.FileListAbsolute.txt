@@ -1,0 +1,16 @@
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\bin\Debug\net8.0-windows\ODEV1.exe
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\bin\Debug\net8.0-windows\ODEV1.deps.json
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\bin\Debug\net8.0-windows\ODEV1.runtimeconfig.json
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\bin\Debug\net8.0-windows\ODEV1.dll
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\bin\Debug\net8.0-windows\ODEV1.pdb
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\obj\Debug\net8.0-windows\ODEV1.Form1.resources
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\obj\Debug\net8.0-windows\ODEV1.csproj.GenerateResource.cache
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\obj\Debug\net8.0-windows\ODEV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\obj\Debug\net8.0-windows\ODEV1.AssemblyInfoInputs.cache
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\obj\Debug\net8.0-windows\ODEV1.AssemblyInfo.cs
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\obj\Debug\net8.0-windows\ODEV1.csproj.CoreCompileInputs.cache
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\obj\Debug\net8.0-windows\ODEV1.dll
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\obj\Debug\net8.0-windows\refint\ODEV1.dll
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\obj\Debug\net8.0-windows\ODEV1.pdb
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\obj\Debug\net8.0-windows\ODEV1.genruntimeconfig.cache
+C:\Users\orcun\Desktop\Reflection\ODEV1\ODEV1\obj\Debug\net8.0-windows\ref\ODEV1.dll

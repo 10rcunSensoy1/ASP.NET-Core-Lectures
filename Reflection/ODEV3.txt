@@ -1,0 +1,46 @@
+Attribute, yazılım geliştirme süreçlerinde kullanılan ve bir nesneye veya öğeye ek bilgi sağlayan bir yapıdır. Programlama dillerinde, özellikle C# gibi dillerde, attribute'lar kodun çalışma şeklini değiştirmeden meta veriler eklemek için kullanılır.
+Attribute Nerelerde ve Neden Kullanılır?
+Attribute'lar, kodun daha okunabilir ve yönetilebilir olmasını sağlamak için kullanılır. Örneğin:
+- [Obsolete]: Bir metodun veya sınıfın artık kullanılmaması gerektiğini belirtir.
+- [Required]: Bir alanın zorunlu olduğunu ifade eder.
+
+Kendi Özel Attribute’unuzu Nasıl Tanımlarsınız?
+Özel bir attribute oluşturmak için System.Attribute sınıfından türetilmiş bir sınıf oluşturmanız gerekir. Örneğin:
+
+[AttributeUsage(AttributeTargets.Class | AttributeTargets.Method)]
+
+public class MyCustomAttribute : Attribute
+{
+    public string Description { get; }
+    
+    public MyCustomAttribute(string description)
+    {
+        Description = description;
+    }
+}
+
+Bir Attribute Nasıl Okunur?(Reflection ile)
+
+Reflection kullanarak attribute'leri okuyabiliriz. Örneğin:
+
+Type type = typeof(MyClass);
+object[] attributes = type.GetCustomAttributes(typeof(MyCustomAttribute), false);
+
+foreach (MyCustomAttribute attr in attributes)
+{
+    Console.WriteLine($"Attribute Açıklaması: {attr.Description}");
+}
+
+Attribute'lar ile Veri Doğrulama (Validation) Nasıl Yapılabilir?
+Attribute'lar, veri doğrulama işlemlerinde de kullanılır. Örneğin, DataAnnotations kütüphanesi ile bir modelde doğrulama yapabiliriz:
+
+public class User
+{
+    [Required(ErrorMessage = "İsim alanı zorunludur.")]
+    public string Name { get; set; }
+
+    [Range(18, 60, ErrorMessage = "Yaş 18 ile 60 arasında olmalıdır.")]
+    public int Age { get; set; }
+}
+
+Bu sayede, form girişlerinde veya API isteklerinde otomatik doğrulama sağlayabiliriz.
