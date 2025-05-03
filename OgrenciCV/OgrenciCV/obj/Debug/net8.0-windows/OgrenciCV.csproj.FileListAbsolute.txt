@@ -1,0 +1,16 @@
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\bin\Debug\net8.0-windows\OgrenciCV.exe
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\bin\Debug\net8.0-windows\OgrenciCV.deps.json
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\bin\Debug\net8.0-windows\OgrenciCV.runtimeconfig.json
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\bin\Debug\net8.0-windows\OgrenciCV.dll
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\bin\Debug\net8.0-windows\OgrenciCV.pdb
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\obj\Debug\net8.0-windows\OgrenciCV.Form1.resources
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\obj\Debug\net8.0-windows\OgrenciCV.csproj.GenerateResource.cache
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\obj\Debug\net8.0-windows\OgrenciCV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\obj\Debug\net8.0-windows\OgrenciCV.AssemblyInfoInputs.cache
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\obj\Debug\net8.0-windows\OgrenciCV.AssemblyInfo.cs
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\obj\Debug\net8.0-windows\OgrenciCV.csproj.CoreCompileInputs.cache
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\obj\Debug\net8.0-windows\OgrenciCV.dll
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\obj\Debug\net8.0-windows\refint\OgrenciCV.dll
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\obj\Debug\net8.0-windows\OgrenciCV.pdb
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\obj\Debug\net8.0-windows\OgrenciCV.genruntimeconfig.cache
+C:\Users\orcun\source\repos\OgrenciCV\OgrenciCV\obj\Debug\net8.0-windows\ref\OgrenciCV.dll
